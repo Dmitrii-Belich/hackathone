@@ -1,0 +1,7 @@
+.porfolio__gallery {
+	display: grid;
+	grid-template-columns: 350px 1fr;
+	grid-template-rows: auto auto auto;
+	grid-row-gap: 26px;
+	grid-column-gap: 30px;
+}

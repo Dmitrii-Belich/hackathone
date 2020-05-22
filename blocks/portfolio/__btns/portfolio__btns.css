@@ -1,0 +1,11 @@
+@import url(__btns_left/portfolio__btns_left.css);
+@import url(__btns_right/portfolio__btns_right.css);
+
+.portfolio__btns{
+	display: flex;
+	align-content: center;
+	width: 64px;
+	height: 26px;
+	border-color: transparent;
+	cursor: pointer;
+}

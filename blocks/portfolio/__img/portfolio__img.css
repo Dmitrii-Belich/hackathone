@@ -1,0 +1,19 @@
+.portfolio__img:first-of-type {
+	grid-row-start: 1;
+	grid-row-end: 2;
+}
+
+.portfolio__img:nth-of-type(2) {
+	grid-row-start: 1;
+	grid-row-end: 3;
+}
+
+.portfolio__img:nth-of-type(3) {
+	grid-row-start: 2;
+	grid-row-end: 4;
+}
+
+.portfolio__img:last-of-type {
+	grid-row-start: 3;
+	grid-row-end: 4;
+}

@@ -1,0 +1,6 @@
+.portfolio__btns_right {
+	background-image: url(../../../../images/arrow.svg);
+	background-repeat: no-repeat;
+	background-color: transparent;
+	transform: rotate(180deg);
+}

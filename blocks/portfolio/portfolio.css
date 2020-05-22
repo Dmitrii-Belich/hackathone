@@ -1,5 +1,15 @@
+@import url(./__items/portfolio__items.css);
+@import url(./__subtitle/portfolio__subtitle.css);
+@import url(./__text/portfolio__text.css);
+@import url(./__gallery/porfolio__gallery.css);
+@import url(./__img/portfolio__img.css);
+@import url(./__btns/portfolio__btns.css);
+@import url(./__text-block/portfolio__text-block.css);
+
 .portfolio {
 	padding-top: 93px;
-	paddin-bottom: 145px;
+	padding-bottom: 145px;
+	max-width: 1110px;
+	margin: 0 auto;
 }
 
