@@ -1,0 +1,17 @@
+.skills__list-progress {
+  min-width: 446px;
+  min-height: 24px;
+border: none;
+background-color: #F5D6AB;
+}
+
+.skills__list-progress::-webkit-progress-bar {
+  background-color: #F5D6AB;
+}
+
+.skills__list-progress::-webkit-progress-value {
+  background: #C66C49;
+}
+.skills__list-progress::-moz-progress-bar {
+  background: #C66C49;
+}

@@ -1,16 +1,16 @@
 @import url(./__link/header__link.css);
 @import url(./__menu-navigation-link/header__menu-navigation-link.css);
 @import url(./__menu-navigation/header__menu-navigation.css);
-@import url(./__menu-title/heder__menu-title.css);
+@import url(./__menu-title/header__menu-title.css);
 @import url(./__menu/header__menu.css);
 @import url(./__subtitle/header__subtitle.css);
 @import url(./__title/header__title.css);
+@import url(./__menu-navigation-element/header__menu-navigation-element.css);
 
 
 .header {
-  background:  center / cover no-repeat url(../../images/bg.jpg);
+  background:  center / 100% 100% no-repeat url(../../images/bg.jpg);
   position: relative;
-  min-height: 768px;
   display: flex;
   flex-direction: column;
   color: white;
