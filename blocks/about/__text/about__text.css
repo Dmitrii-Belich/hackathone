@@ -1,0 +1,10 @@
+.about__text {
+  font-weight: normal;
+font-size: 18px;
+line-height: 30px;
+margin: 0 0 50px;
+}
+
+.about__text:last-of-type {
+  margin: 0;
+}
