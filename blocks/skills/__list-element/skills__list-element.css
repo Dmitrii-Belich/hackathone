@@ -1,0 +1,12 @@
+.skills__list-element {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-width: 635px;
+  margin: 0 0 20px;
+  color: #333333;
+}
+
+.skills__list-element:first-of-type {
+  margin-bottom: 65px;
+}

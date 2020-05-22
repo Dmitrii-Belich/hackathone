@@ -1,0 +1,7 @@
+.footer__vertical-wrapper {
+  margin: 0 300px 0 0;
+}
+
+.footer__vertical-wrapper:last-of-type {
+  margin: 0;
+}

@@ -1,0 +1,12 @@
+@import url(./__image/skills__image.css);
+@import url(./__list-element/skills__list-element.css);
+@import url(./__list-progress/skills__list-progress.css);
+@import url(./__list-title/sklls__list-title.css);
+@import url(./__list/skills__list.css);
+@import url(./__title/skills__title.css);
+@import url(./__wrapper/skills__wrapper.css);
+@import url(./__list-text/skills__list-text.css);
+
+.skills {
+  background: #FFFAF2;
+}
